@@ -144,7 +144,7 @@
                     "size": 72,
                     "style": "Regular"
                 },
-                "text": "Azure Tech Lab #7 - Teamsで始めるオンライン勉強会 あつまれエンジニアの森！\nTwitter: #azuretechlove    sli.do: XXXXX"
+                "text": "Azure Tech Lab #7\nTeamsで始めるオンライン勉強会 あつまれエンジニアの森！\nTwitter: #azuretechlove    sli.do: XXXXX"
             },
             "sync": 0,
             "versioned_id": "text_ft2_source_v2",
@@ -169,7 +169,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "C:/Users/nosuzuk/Documents/GitHub/OBSscenes/20200427/af464276fd32fa3db8ca486a47968115.png"
+                "file": "C:/Users/nosuzuk/Documents/GitHub/OBSscenes/20200428azuretechlove/af464276fd32fa3db8ca486a47968115.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -194,7 +194,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "C:/Users/nosuzuk/Documents/GitHub/OBSscenes/20200427/00bf42e91c7fef57314043a88974a2bd.png"
+                "file": "C:/Users/nosuzuk/Documents/GitHub/OBSscenes/20200428azuretechlove/00bf42e91c7fef57314043a88974a2bd.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -220,9 +220,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "method": 2,
-                "owner_name": "Microsoft PowerPoint",
-                "window": "Meeting | Microsoft Teams:Chrome_WidgetWin_1:Teams.exe",
-                "window_name": "PowerPoint Slide Show - [20191105アカデミック分野におけるマイクロソフトの取り組み]"
+                "window": "Meeting | Microsoft Teams:Chrome_WidgetWin_1:Teams.exe"
             },
             "sync": 0,
             "versioned_id": "window_capture",
@@ -279,16 +277,16 @@
                         "bounds_align": 0,
                         "bounds_type": 0,
                         "crop_bottom": 0,
-                        "crop_left": 0,
+                        "crop_left": 4,
                         "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_top": 4,
                         "group_item_backup": false,
                         "id": 10,
                         "locked": false,
                         "name": "background",
                         "pos": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 4.0,
+                            "y": 4.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -316,8 +314,8 @@
                         "locked": false,
                         "name": "Image",
                         "pos": {
-                            "x": 9.0,
-                            "y": 946.23052978515625
+                            "x": 33.0,
+                            "y": 909.00006103515625
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -355,7 +353,7 @@
                             "y": 1.3600000143051147
                         },
                         "scale_filter": "disable",
-                        "visible": true
+                        "visible": false
                     },
                     {
                         "align": 5,
@@ -374,8 +372,8 @@
                         "locked": false,
                         "name": "note",
                         "pos": {
-                            "x": 312.0,
-                            "y": 974.464599609375
+                            "x": 227.66835021972656,
+                            "y": 920.464599609375
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -394,7 +392,7 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 0,
-                        "crop_bottom": 20,
+                        "crop_bottom": 0,
                         "crop_left": 1012,
                         "crop_right": 363,
                         "crop_top": 117,
@@ -403,14 +401,14 @@
                         "locked": false,
                         "name": "tweet",
                         "pos": {
-                            "x": 1625.0,
-                            "y": 129.0
+                            "x": 1552.0,
+                            "y": 0.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.91147541999816895,
-                            "y": 0.91066998243331909
+                            "x": 1.2065573930740356,
+                            "y": 1.2060470581054688
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -442,7 +440,7 @@
                             "y": 0.1944444477558136
                         },
                         "scale_filter": "disable",
-                        "visible": true
+                        "visible": false
                     },
                     {
                         "align": 5,
@@ -453,7 +451,7 @@
                         "bounds_align": 0,
                         "bounds_type": 0,
                         "crop_bottom": 3,
-                        "crop_left": 1501,
+                        "crop_left": 1500,
                         "crop_right": 3,
                         "crop_top": 915,
                         "group_item_backup": false,
@@ -461,14 +459,14 @@
                         "locked": false,
                         "name": "camera",
                         "pos": {
-                            "x": 1623.0,
-                            "y": 928.0
+                            "x": 1136.0,
+                            "y": 860.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 1.576923131942749,
-                            "y": 1.5744681358337402
+                            "x": 2.3693182468414307,
+                            "y": 2.3695652484893799
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -481,23 +479,23 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 0,
-                        "crop_bottom": 96,
-                        "crop_left": 67,
-                        "crop_right": 0,
-                        "crop_top": 47,
+                        "crop_bottom": 93,
+                        "crop_left": 62,
+                        "crop_right": 32,
+                        "crop_top": 42,
                         "group_item_backup": false,
                         "id": 2,
                         "locked": false,
                         "name": "main",
                         "pos": {
-                            "x": 83.0,
-                            "y": 132.0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.94285714626312256,
-                            "y": 0.94237697124481201
+                            "x": 0.9804539680480957,
+                            "y": 0.980571448802948
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -556,7 +554,8 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "window": "TweetDeck - Profile 1 - Microsoft​ Edge:Chrome_WidgetWin_1:msedge.exe"
+                "method": 0,
+                "window": "OBSscenes/20200427azuretechlove at master · suzukin/OBSscenes and 1 more page - Profile 1 - Microsoft​ Edge:Chrome_WidgetWin_1:msedge.exe"
             },
             "sync": 0,
             "versioned_id": "window_capture",
